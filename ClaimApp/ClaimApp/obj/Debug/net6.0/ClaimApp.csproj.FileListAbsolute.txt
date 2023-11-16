@@ -1,0 +1,60 @@
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.staticwebassets.runtime.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.exe
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.deps.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.runtimeconfig.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.dll
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.pdb
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.AssemblyInfoInputs.cache
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.AssemblyInfo.cs
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.RazorAssemblyInfo.cache
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.RazorAssemblyInfo.cs
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.ClaimApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimApp.props
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimApp.props
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimApp.props
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\scopedcss\bundle\ClaimApp.styles.css
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\scopedcss\projectbundle\ClaimApp.bundle.scp.css
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.dll
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\refint\ClaimApp.dll
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.pdb
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.genruntimeconfig.cache
+C:\Users\Admin.CHETUIWK2312.000\source\repos\ClaimApp\ClaimApp\obj\Debug\net6.0\ref\ClaimApp.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\appsettings.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.staticwebassets.runtime.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.exe
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.deps.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.runtimeconfig.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\bin\Debug\net6.0\ClaimApp.pdb
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.AssemblyInfoInputs.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.AssemblyInfo.cs
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.csproj.CoreCompileInputs.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.RazorAssemblyInfo.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.RazorAssemblyInfo.cs
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.ClaimApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimApp.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimApp.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimApp.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\scopedcss\bundle\ClaimApp.styles.css
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\scopedcss\projectbundle\ClaimApp.bundle.scp.css
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\refint\ClaimApp.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.pdb
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ClaimApp.genruntimeconfig.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimApp\obj\Debug\net6.0\ref\ClaimApp.dll

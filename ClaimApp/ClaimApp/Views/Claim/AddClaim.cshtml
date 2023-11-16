@@ -1,0 +1,87 @@
+﻿
+@{
+}
+<div class="row">
+    <div class="col-8 offset-2">
+        <div class="card mt-3">
+            <div class="card-header">
+                <h4 class="card-title">Add Claim Here</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupClaimTitle">
+                            <label>Claim Title</label>
+                            <input type="text" class="form-control" id="txtClaimTitle" />
+                            <span id="errClaimTitle"></span>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupClaimReason">
+                            <label>Claim Reason</label>
+                            <select  class="form-control" id="txtClaimReason" >
+                                <option value="">Select</option>
+                                <option value="Travel">Travel</option>
+                                <option value="Food">Food</option>
+                                <option value="Petrol">Petrol</option>
+                                <option value="Mobile Recharge">Mobile Recharge</option>
+                             </select>
+                            <span id="errClaimReason"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupClaimAmount">
+                            <label>Claim Amount</label>
+                            <input type="number" class="form-control" id="txtClaimAmount" />
+                            <span id="errClaimAmount"></span>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupClaimExpenseDt">
+                            <label>Claim ExpenseDt</label>
+                            <input type="date" class="form-control" id="txtClaimExpenseDt" />
+                            <span id="errClaimExpenseDt"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupClaimEvidence">
+                            <label>Upload evidence document</label>
+                            <input type="file" class="form-control" id="txtClaimEvidence" />
+                            <span id="errClaimEvidence"></span>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupClaimDescription">
+                            <label>Claim Description</label>
+                            <textarea class="form-control" id="txtClaimDescription" ></textarea>
+                            <span id="errClaimDescription"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6 mt-3">
+                        <button id="btnReload" class="btn btn-info">Refresh</button>
+                    </div>
+                    <div class="col-6 mt-3">
+                        <button id="btnSubmit" class="btn btn-info float-right">Submit</button>
+
+                    </div>
+                </div>
+                <div class="row" >
+                    <div class="col-12 mt-3">
+                        <p id="msg"></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/claim/employeeclaim.js" type="text/javascript"></script>

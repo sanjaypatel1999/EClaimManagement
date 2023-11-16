@@ -1,0 +1,9 @@
+
+.error-control {
+    color: red;
+    font-size: 14px;
+}
+
+table.table-bordered.dataTable{
+    width:100% !important
+}
